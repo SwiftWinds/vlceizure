@@ -1,0 +1,9 @@
+Package: dev.mateowang.vlceizure
+Name: vlceizure
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome Orion tweak!
+Maintainer: Mateo Wang
+Author: Mateo Wang
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2)
